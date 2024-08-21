@@ -1,0 +1,9 @@
+files.txt
+man_input.sh
+notes.txt
+output.txt
+read_file.sh
+read_input.sh
+run_all.sh
+test_script.sh
+variables.sh
