@@ -18,3 +18,5 @@ done
 
 #print the whole array at once
 echo "All the elements in array : '${my_data[@]}'"
+
+echo $(< files.txt)
